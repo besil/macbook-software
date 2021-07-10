@@ -16,6 +16,7 @@ brew install awscli
 brew install python@3.9
 brew install adoptopenjdk
 brew install kotlin
+brew install --cask flutter
 
 # other
 brew install --cask firefox
@@ -25,3 +26,6 @@ brew install --cask spotify
 brew install --cask appcleaner
 brew install --cask calibre
 brew install --cask whatsapp
+brew install --cask vlc
+brew install --cask teamviewer
+brew install --cask steam
