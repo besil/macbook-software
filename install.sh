@@ -14,6 +14,7 @@ brew install awscli
 
 # languages
 brew install python@3.9
+brew install poetry
 brew install adoptopenjdk
 brew install kotlin
 brew install --cask flutter
