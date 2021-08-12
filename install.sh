@@ -30,3 +30,4 @@ brew install --cask whatsapp
 brew install --cask vlc
 brew install --cask teamviewer
 brew install --cask steam
+brew install --cask clipy
