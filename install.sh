@@ -31,3 +31,4 @@ brew install --cask vlc
 brew install --cask teamviewer
 brew install --cask steam
 brew install --cask clipy
+brew install --cask balsamiq-wireframes
