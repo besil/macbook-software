@@ -32,3 +32,7 @@ brew install --cask teamviewer
 brew install --cask steam
 brew install --cask clipy
 brew install --cask balsamiq-wireframes
+
+# fun
+brew install --cask openra
+brew install --cask 0-ad
