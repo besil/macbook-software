@@ -35,3 +35,4 @@ brew install --cask balsamiq-wireframes
 
 # fun
 brew install --cask 0-ad
+brew install openttd
