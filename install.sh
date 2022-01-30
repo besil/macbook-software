@@ -11,6 +11,7 @@ brew install postgresql
 
 # cloud
 brew install awscli
+brew install oci-cli
 
 # languages
 brew install python@3.9
