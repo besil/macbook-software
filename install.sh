@@ -12,9 +12,10 @@ brew install postgresql
 # cloud
 brew install awscli
 brew install oci-cli
+brew install --cask raspberry-pi-imager
 
 # languages
-brew install python@3.9
+brew install python@3.10
 brew install poetry
 brew install adoptopenjdk
 brew install kotlin
@@ -38,3 +39,4 @@ brew install --cask rectangle
 # fun
 brew install --cask 0-ad
 brew install --cask openttd
+brew install --cask steam
