@@ -15,11 +15,12 @@ brew install oci-cli
 brew install --cask raspberry-pi-imager
 
 # languages
+## python
 brew install python@3.10
 brew install poetry
-brew install adoptopenjdk
+## java
+brew install --cask temurin
 brew install kotlin
-brew install --cask flutter
 
 # other
 brew install --cask firefox
