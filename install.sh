@@ -39,6 +39,8 @@ brew install --cask steam
 brew install --cask maccy
 brew install --cask balsamiq-wireframes
 brew install --cask rectangle
+brew install telegram
+brew install whatsapp
 
 # fun
 brew install --cask 0-ad
