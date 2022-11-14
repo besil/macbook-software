@@ -4,7 +4,8 @@ brew install --cask dbeaver-community
 brew install --cask jetbrains-toolbox
 brew install git
 brew install git-gui
-brew install --cask docker
+brew install --cask podman-desktop
+# brew install --cask docker
 
 # dev tools
 brew install postgresql
@@ -33,7 +34,7 @@ brew install --cask whatsapp
 brew install --cask vlc
 brew install --cask teamviewer
 brew install --cask steam
-brew install --cask clipy
+brew install --cask maccy
 brew install --cask balsamiq-wireframes
 brew install --cask rectangle
 
