@@ -19,13 +19,15 @@ brew install --cask raspberry-pi-imager
 ## python
 brew install python@3.10
 brew install poetry
+brew install pyenv
 ## java
 brew install --cask temurin
 brew install kotlin
 
 # other
 brew install --cask firefox
-brew install --cask google-chrome
+brew install --cask bitwarden
+#brew install --cask google-chrome
 brew install --cask transmission
 brew install --cask spotify
 brew install --cask appcleaner
