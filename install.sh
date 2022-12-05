@@ -5,6 +5,7 @@ brew install --cask jetbrains-toolbox
 brew install git
 brew install git-gui
 brew install --cask podman-desktop
+brew install podman-compose
 # brew install --cask docker
 
 # dev tools
