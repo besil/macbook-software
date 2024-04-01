@@ -44,9 +44,11 @@ brew install --cask openlens
 brew install --cask vincelwt-chatgpt
 brew install --cask zoom
 
-# other
+# personal
 #brew install --cask calibre
+brew install --cask caffeine
 #brew install --cask clockify
+brew install --cask displaylink
 #brew install --cask obsidian
 brew install --cask firefox
 brew tap homebrew/cask-versions
@@ -55,6 +57,7 @@ brew install --cask firefox-developer-edition
 #brew install --cask microsoft-edge
 #brew install --cask microsoft-teams
 #brew install --cask tor-browser
+#brew install --cask brew install --cask adguard
 brew install --cask onedrive
 #brew install --cask mediahuman-audio-converter
 brew install --cask bitwarden
