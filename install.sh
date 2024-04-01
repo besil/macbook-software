@@ -58,7 +58,9 @@ brew install --cask firefox-developer-edition
 #brew install --cask google-chrome
 #brew install --cask microsoft-edge
 brew install --cask onedrive
+brew install --cask microsoft-excel
 brew install --cask microsoft-powerpoint
+brew install --cask microsoft-word
 brew install --cask microsoft-onenote
 #brew install --cask microsoft-teams
 #brew install --cask tor-browser
