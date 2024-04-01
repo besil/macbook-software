@@ -7,10 +7,14 @@ brew install --cask jetbrains-toolbox
 brew install --cask insomnia
 brew install git
 brew install git-gui
+brew install --cask sourcetree
 brew install --cask docker
 brew install helm
 brew install terraform
 brew install --cask ngrok
+brew install telnet
+brew install awscli
+#brew install oci-cli
 
 # Programming
 ## python
@@ -28,20 +32,17 @@ pipx install poetry
 ## dart and flutter
 #brew install --cask flutter
 
-# sysadmin utils
-brew install telnet
-
-# cloud
-brew install awscli
-brew install --cask raspberry-pi-imager
-#brew install oci-cli
-
 # work
 brew install --cask notion
 brew install --cask obs
+#brew install --cask screen-studio
 brew install --cask google-drive
 brew install --cask slack
 brew install --cask balsamiq-wireframes
+brew install --cask openlens
+#brew install --cask twist
+brew install --cask vincelwt-chatgpt
+brew install --cask zoom
 
 # other
 #brew install --cask calibre
@@ -53,21 +54,23 @@ brew install --cask firefox-developer-edition
 #brew install --cask google-chrome
 #brew install --cask microsoft-edge
 #brew install --cask microsoft-teams
+#brew install --cask tor-browser
 brew install --cask onedrive
 #brew install --cask mediahuman-audio-converter
 brew install --cask bitwarden
 brew install --cask maccy
 brew install --cask rectangle
+brew install --cask raspberry-pi-imager
 brew install --cask transmission
 #brew install --cask spotify
 brew install --cask appcleaner
-
+brew install --cask omnidisksweeper
 brew install --cask whatsapp
 brew install --cask vlc
 #brew install --cask teamviewer
+#brew install --cask sweet-home3d
+brew install --cask telegram
 
-brew install telegram
-brew install whatsapp
 
 # gaming
 #brew install --cask 0-ad
