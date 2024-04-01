@@ -43,8 +43,10 @@ brew install --cask openlens
 #brew install --cask twist
 brew install --cask vincelwt-chatgpt
 brew install --cask zoom
+#brew install --cask figma
 
 # personal
+brew install --cask bitwarden
 #brew install --cask calibre
 brew install --cask caffeine
 #brew install --cask clockify
@@ -55,12 +57,15 @@ brew tap homebrew/cask-versions
 brew install --cask firefox-developer-edition
 #brew install --cask google-chrome
 #brew install --cask microsoft-edge
+brew install --cask onedrive
+brew install --cask microsoft-powerpoint
+brew install --cask microsoft-onenote
 #brew install --cask microsoft-teams
 #brew install --cask tor-browser
 #brew install --cask brew install --cask adguard
-brew install --cask onedrive
+
 #brew install --cask mediahuman-audio-converter
-brew install --cask bitwarden
+brew install --cask logi-options-plus
 brew install --cask maccy
 brew install --cask rectangle
 brew install --cask raspberry-pi-imager
