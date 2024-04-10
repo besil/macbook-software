@@ -40,6 +40,7 @@ brew install --cask google-drive
 brew install --cask slack
 brew install --cask balsamiq-wireframes
 brew install --cask openlens
+brew install k9s
 #brew install --cask twist
 brew install --cask vincelwt-chatgpt
 brew install --cask zoom
