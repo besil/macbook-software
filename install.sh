@@ -49,7 +49,7 @@ brew install --cask zoom
 # personal
 brew install --cask bitwarden
 #brew install --cask calibre
-brew install --cask caffeine
+#brew install --cask caffeine # better use amphetamine from app store
 #brew install --cask clockify
 brew install --cask displaylink
 #brew install --cask obsidian
@@ -66,11 +66,11 @@ brew install --cask microsoft-onenote
 #brew install --cask microsoft-teams
 #brew install --cask tor-browser
 #brew install --cask brew install --cask adguard
-
 #brew install --cask mediahuman-audio-converter
 brew install --cask logi-options-plus
 brew install --cask maccy
 brew install --cask rectangle
+brew install --cask alt-tab
 brew install --cask raspberry-pi-imager
 brew install --cask transmission
 #brew install --cask spotify
