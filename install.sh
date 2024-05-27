@@ -3,6 +3,7 @@ brew install --cask visual-studio-code
 #brew install beekeeper-studio
 #brew install --cask dbeaver-community
 #brew install --cask db-browser-for-sqlite
+brew install --cask dbgate
 brew install --cask jetbrains-toolbox
 brew install --cask insomnia
 brew install git
