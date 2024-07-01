@@ -16,6 +16,7 @@ brew install --cask ngrok
 brew install telnet
 brew install awscli
 #brew install oci-cli
+brew install --cask cyberduck
 
 # Programming
 ## python
