@@ -47,43 +47,44 @@ brew install k9s
 brew install --cask vincelwt-chatgpt
 brew install --cask zoom
 #brew install --cask figma
+#brew install --cask clockify # time tracking
 
 # personal
-brew install --cask bitwarden
-#brew install --cask calibre
+brew install --cask bitwarden # password manager
+brew install --cask adguard # safari and macbook ad block
+brew install --cask hush # automatic cookie consent for safari
+#brew install --cask calibre # ebook reader and library
 #brew install --cask caffeine # better use amphetamine from app store
-#brew install --cask clockify
-brew install --cask displaylink
-#brew install --cask obsidian
-brew install --cask firefox
+brew install --cask displaylink # must have for 2nd monitor
+#brew install --cask obsidian # note taker. or just use notion
+brew install --cask firefox # best browser
 brew tap homebrew/cask-versions
 brew install --cask firefox-developer-edition
 #brew install --cask google-chrome
 #brew install --cask microsoft-edge
-brew install --cask onedrive
-brew install --cask microsoft-excel
-brew install --cask microsoft-powerpoint
-brew install --cask microsoft-word
-brew install --cask microsoft-onenote
+#brew install --cask brave-browser
+brew install --cask onedrive # office 365 suite
+brew install --cask microsoft-excel # office 365 suite
+brew install --cask microsoft-powerpoint # office 365 suite
+brew install --cask microsoft-word # office 365 suite
+brew install --cask microsoft-onenote # office 365 suite
 #brew install --cask microsoft-teams
 #brew install --cask tor-browser
-#brew install --cask brew install --cask adguard
 #brew install --cask mediahuman-audio-converter
-brew install --cask logi-options-plus
-brew install --cask maccy
-brew install --cask rectangle
-brew install --cask alt-tab
-brew install --cask raspberry-pi-imager
+brew install --cask logi-options-plus # for mouse and keyboard
+brew install --cask maccy # clip manager
+brew install --cask rectangle # better window management
+brew install --cask alt-tab # must have for windows-like alt-tab
+# brew install --cask raspberry-pi-imager # useful
 brew install --cask transmission
 #brew install --cask spotify
-brew install --cask appcleaner
-brew install --cask omnidisksweeper
+brew install --cask appcleaner # to easily uninstall hidden files from apps
+brew install --cask omnidisksweeper # disk management utility
 brew install --cask whatsapp
+brew install --cask telegram
 brew install --cask vlc
 #brew install --cask teamviewer
 #brew install --cask sweet-home3d
-brew install --cask telegram
-
 
 # gaming
 #brew install --cask 0-ad
