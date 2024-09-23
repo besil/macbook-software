@@ -31,8 +31,8 @@ pipx install poetry
 ## java
 brew tap sdkman/tap
 brew install sdkman-cli
-export SDKMAN_DIR=$(brew --prefix sdkman-cli)/libexec
-[[ -s "${SDKMAN_DIR}/bin/sdkman-init.sh" ]] && source "${SDKMAN_DIR}/bin/sdkman-init.sh"
+echo 'export SDKMAN_DIR=$(brew --prefix sdkman-cli)/libexec
+[[ -s "${SDKMAN_DIR}/bin/sdkman-init.sh" ]] && source "${SDKMAN_DIR}/bin/sdkman-init.sh"' >> ~/.zshrc
 #brew install --cask temurin
 #brew install kotlin
 ## dart and flutter
