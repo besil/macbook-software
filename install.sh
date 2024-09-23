@@ -29,6 +29,8 @@ pipx install poetry
 ## node
 #brew install node
 ## java
+brew tap sdkman/tap
+brew install sdkman-cli
 #brew install --cask temurin
 #brew install kotlin
 ## dart and flutter
