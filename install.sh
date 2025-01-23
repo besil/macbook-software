@@ -80,6 +80,7 @@ brew install --cask microsoft-onenote # office 365 suite
 #brew install --cask mediahuman-audio-converter
 brew install --cask logi-options-plus # for mouse and keyboard
 brew install --cask maccy # clip manager
+#brew install jordanbaird-ice # to hide menubar icons
 brew install --cask rectangle # better window management
 #brew install --cask alt-tab # must have for windows-like alt-tab. Now switched to cmd+alt+`
 brew install --cask betterdisplay # for multiple resolution management on external monitors
