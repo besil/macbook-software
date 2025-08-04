@@ -1,5 +1,6 @@
 # personal
 brew install --cask bitwarden # password manager
+brew install --cask synology-drive
 #brew install --cask adguard # safari and macbook ad block
 #brew install --cask hush # automatic cookie consent for safari
 #brew install --cask calibre # ebook reader and library
@@ -7,8 +8,7 @@ brew install --cask bitwarden # password manager
 #brew install --cask displaylink # must have for 2nd monitor
 brew install --cask obsidian # note taker. or just use notion
 brew install --cask firefox # best browser
-brew tap homebrew/cask-versions
-brew install --cask firefox-developer-edition
+brew install --cask firefox@developer-edition
 #brew install --cask google-chrome
 #brew install --cask microsoft-edge
 #brew install --cask brave-browser
