@@ -36,6 +36,7 @@ brew install --cask telegram
 brew install --cask vlc
 #brew install --cask teamviewer
 #brew install --cask sweet-home3d
+brew install wireguard-tools
 
 # gaming
 #brew install --cask 0-ad
