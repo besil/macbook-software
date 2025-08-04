@@ -9,6 +9,7 @@ brew install --cask synology-drive
 brew install --cask obsidian # note taker. or just use notion
 brew install --cask firefox # best browser
 brew install --cask firefox@developer-edition
+brew install --cask ungoogled-chromium
 #brew install --cask google-chrome
 #brew install --cask microsoft-edge
 #brew install --cask brave-browser
