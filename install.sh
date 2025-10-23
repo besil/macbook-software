@@ -28,7 +28,8 @@ brew install --cask rectangle # better window management
 #brew install --cask alt-tab # must have for windows-like alt-tab. Now switched to cmd+alt+`
 brew install --cask betterdisplay # for multiple resolution management on external monitors
 brew install --cask raspberry-pi-imager # useful
-brew install --cask transmission
+#brew install --cask transmission
+brew install --cask qbittorrent
 #brew install --cask spotify
 brew install --cask appcleaner # to easily uninstall hidden files from apps
 brew install --cask omnidisksweeper # disk management utility
